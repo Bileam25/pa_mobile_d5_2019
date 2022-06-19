@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828949705063",
+    "project_id": "pa-mobile-19",
+    "storage_bucket": "pa-mobile-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828949705063:android:36acde12dac2fa9e343fc2",
+        "android_client_info": {
+          "package_name": "com.example.pa_mobile_d5_2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828949705063-hbbtfuiva8avq905p7evfk82ntdhvqii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2X8r0dn3FghhUomRMpFx_0emkvXhd4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828949705063-hbbtfuiva8avq905p7evfk82ntdhvqii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
